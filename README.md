@@ -1,1 +1,1 @@
-ECHO 处于打开状态。
+windows  缁堢鏂板缓鏂囦欢  echo >
